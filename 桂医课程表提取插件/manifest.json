@@ -3,7 +3,7 @@
   "name": "桂医课程表json提取器",
   "version": "1.0",
   "description": "针对桂林医科大学教务系统提取课程表并导出为 JSON文件，方便导入到其他课程表软件里",
-  "author": "DeepSeek老师+李蔺昊",
+  "author": "DeepSeek老师+xhh李",
   "permissions": ["activeTab", "scripting", "downloads"],
   "host_permissions": ["<all_urls>"],
   "action": {
